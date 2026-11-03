@@ -154,5 +154,5 @@ Profit = Sales − product Cost only; operating expenses such as rent, salaries 
  
 Four tools, one dataset, one set of answers — verified identical everywhere. The analysis proves RetailHub's growth problem is not a sales problem but a margin problem driven by discounting: capping routine discounts at 20%, protecting festive margin, fixing two low-margin stores and three preventable return causes would recover lakhs in profit without selling a single extra unit.
  
-Project by Teja S · Files: Excel workbook, my_sql_analysis.sql, my_python_analysis.py,
+Project by Jagan Ambati· Files: Excel workbook, my_sql_analysis.sql, my_python_analysis.py,
 Retail_Profitability_Dashboard.pbix (+ PDF export), raw_data CSVs · Dataset: synthetic (seed 42), 2024– 2025
